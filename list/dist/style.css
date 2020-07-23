@@ -1,0 +1,19 @@
+h1 {
+  color: red;
+}
+
+h2 {
+  color: green;
+}
+.roman {
+  list-style-type: upper-roman;
+  text-decoration: underline;
+}
+
+div {
+  color: purple;
+  text-decoration: underline purple;
+}
+p {
+   text-shadow: 2px 2px 5px blue;
+}

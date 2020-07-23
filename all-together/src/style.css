@@ -1,0 +1,51 @@
+.container {
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.Header {
+	background: aqua;
+	height: 100px;
+	width: 800px;
+	position: fixed;
+	top: 0;
+}
+
+.Body {
+	display: flex;
+	height: 1000px;
+	margin-top: 100px;
+	justify-content: space-between;
+}
+
+.Left-sidebar {
+	background: orange;
+	width: 20%;
+}
+
+.Main-content {
+	background: red;
+	width: 50%;
+	padding: 10px;
+	display: flex;
+	justify-content: flex-end;
+	align-items: flex-end;
+}
+
+#Fixed-content {
+	background: black;
+	height: 80px;
+	width: 80px;
+}
+
+.Right-sidebar {
+	background: purple;
+	width: 20%;
+}
+
+.Footer {
+	background: blue;
+	height: 100px;
+}
+

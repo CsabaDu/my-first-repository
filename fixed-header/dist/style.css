@@ -1,0 +1,52 @@
+.container {
+	position: flex;
+	border: none;
+}
+
+.purple {
+	height: 70px;
+	width: 1000px;
+	background: purple;
+	position: fixed;
+	top: 0;
+}
+
+.cyan {
+	position: relative;
+	left: 80px;
+	border: none;
+	background: cyan;
+	height: 30px;
+	width: 100px;
+	margin: 20px;
+}
+
+.body {
+	display: flex;
+	height: 1000px;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 70px;
+}
+
+.yellow {
+	background: yellow;
+	height: 1000px;
+  flex-grow: 4;
+}
+
+.lime {
+	background: lime;
+	height: 1000px;
+  flex-grow: 1;
+}
+
+.footer {
+	position: sticky;
+	bottom: 0;
+	background: lightgrey;
+	height: 80px;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 15px;
+}

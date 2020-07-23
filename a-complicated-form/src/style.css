@@ -1,0 +1,9 @@
+form {
+  padding: 5px;
+  margin: 5px;
+  width: 400px;
+}
+
+.textarea {
+  height: 150px;
+}

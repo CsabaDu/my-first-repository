@@ -1,0 +1,13 @@
+p {
+  font-family: 'Fondamento', cursive;
+  background: #0D91A1;
+  color: #015668;
+  width: 200px;
+  height: 50px;
+  padding: 15px;
+  margin: 20px;
+  border: 5px;
+  border-style: solid;
+  border-color: #7DCE94;
+  
+}

@@ -1,0 +1,33 @@
+.container {
+	display: flex;
+	border: none;
+	}
+
+.purple {
+	height: 50px;
+	background: purple;
+}
+
+.cyan {
+	border: none;
+	background: cyan;
+	height: 30px;
+	width: 100px;
+	margin: 10px;
+}
+
+ .body {
+	  display: flex;
+}
+
+.yellow {
+	background: yellow;
+	height: 500px;
+  flex-grow: 4;
+}
+
+.lime {
+	background: lime;
+	height: 500px;
+  flex-grow: 1;
+}
